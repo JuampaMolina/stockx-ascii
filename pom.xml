@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>edu.pingpong</groupId>
-    <artifactId>stockx-ascii</artifactId>
+    <artifactId>stockx_ascii</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
@@ -23,7 +23,7 @@
                         <archive>
                             <manifest>
                                 <addClasspath>true</addClasspath>
-                                <mainClass>edu.pingpong.cotxox.Cotxox</mainClass>
+                                <mainClass>edu.pingpong.stockx_ascii.Stockx</mainClass>
                                 <classpathPrefix>dependency-jars/</classpathPrefix>
                             </manifest>
                         </archive>
