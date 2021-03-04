@@ -18,5 +18,3 @@ public class Size implements Criteria{
         return item.offers().stream().filter(offer -> offer.size().equals(size)).collect(Collectors.toList());
     }
 }
-
-// TODO: andCriteria
